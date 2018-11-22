@@ -1,0 +1,121 @@
+body {
+font-family: arial;
+margin: 0px;
+background-image: url(back.png);
+background-attachment: fixed;
+
+
+}
+.menu {  
+width: 100%;
+height: 70px;
+position: fixed;
+top:0px;
+background-color: black;
+
+
+
+}
+.slider {
+width: 100%;
+height:300px;
+
+
+
+
+}
+
+
+
+.inmenu { 
+width: 50%;
+height: 50px;
+
+float: right;
+margin-left:682px;
+color: black;
+position: fixed;
+z-index: 1;
+font-size: 25px;
+
+
+
+
+}
+.inmenu li {
+display: inline;
+}
+.inmenu a {
+color: white;
+text-decoration: none;
+word-spacing: 50px;
+line-height: 25px;
+margin: 20px;
+margin-bottom: 0px;
+
+
+}
+.inmenu a:hover {
+color: white;
+border-bottom: solid white 4px;
+}
+.content {
+background-color: grey;
+width: 100%;
+
+margin-top: 0px;
+
+
+}
+.barchasi {
+width: 100%;
+
+
+color:white;
+padding: 3px;
+
+}
+.barchasi h1 {
+	margin-top: 0px;
+
+}
+
+.articles {
+width: 100%;
+
+margin-left: 1px;
+
+
+
+
+}
+.article2 {
+width: 32%;
+background-color: white;
+float: left;
+border: solid 1px white;
+margin: 9px;
+margin-left: 6px;
+}
+.articles img {
+	width: 100%;
+}
+.articles img:hover {
+	width: 100%;
+	opacity: 0.5;
+}
+
+.articles p {
+
+text-align: justify;
+
+}
+.text {
+	padding: 15px;
+	margin-bottom: 0px;
+}
+.text a {
+	text-decoration: none;
+}
+
+
